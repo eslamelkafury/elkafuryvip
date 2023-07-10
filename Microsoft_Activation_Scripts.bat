@@ -1,6 +1,9 @@
 @setlocal DisableDelayedExpansion
 @echo off
 color 0A
+echo: git add .
+echo: git commit -m "تعديلات أولية"
+echo: git push -u origin main
 chcp 65001 > nul
 ::  For command line switches, check https://massgrave.dev/command_line_switches.html
 ::  If you want to better understand script, read from MAS separate files version.
