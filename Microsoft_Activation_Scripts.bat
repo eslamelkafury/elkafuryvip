@@ -1,6 +1,7 @@
 @setlocal DisableDelayedExpansion
 @echo off
-SET API_KEY=your_api_key_here
+SET API_KEY=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
+git init
 color 0A
 chcp 65001 > nul
 ::  For command line switches, check https://massgrave.dev/command_line_switches.html
